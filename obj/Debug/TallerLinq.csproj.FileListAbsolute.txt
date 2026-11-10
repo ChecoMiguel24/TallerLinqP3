@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\TallerLinq\TallerLinq\bin\Debug\TallerLinq.exe.config
+C:\Users\danie\source\repos\TallerLinq\TallerLinq\bin\Debug\TallerLinq.exe
+C:\Users\danie\source\repos\TallerLinq\TallerLinq\bin\Debug\TallerLinq.pdb
+C:\Users\danie\source\repos\TallerLinq\TallerLinq\obj\Debug\TallerLinq.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\TallerLinq\TallerLinq\obj\Debug\TallerLinq.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TallerLinq\TallerLinq\obj\Debug\TallerLinq.exe
+C:\Users\danie\source\repos\TallerLinq\TallerLinq\obj\Debug\TallerLinq.pdb
